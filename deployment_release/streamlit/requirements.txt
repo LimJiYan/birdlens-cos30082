@@ -1,0 +1,6 @@
+# Free CPU-only PyTorch installation for Streamlit Community Cloud.
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.45,<2
+torch==2.13.0+cpu
+torchvision==0.28.0+cpu
+Pillow>=11,<13

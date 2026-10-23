@@ -1,0 +1,6 @@
+# Hugging Face ZeroGPU (Python 3.12; Gradio SDK).
+# The Spaces platform provides the `spaces` package: do not list it here.
+gradio==6.5.1
+torch==2.13.0
+torchvision==0.28.0
+Pillow>=11,<13
